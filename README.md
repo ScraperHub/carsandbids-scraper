@@ -22,7 +22,7 @@ It also automatically handles pagination, ensuring comprehensive data extraction
 
 ### Carsandbids.com Product Page Scraper
 
-The Carsandbids.com Product Page Scraper (carsandbids_product_page_scraper.py) extracts detailed product information, including:
+The Carsandbids.com Product Page Scraper (carsandbids_product_page_scraper.py) extracts detailed car information, including:
 
 1. **Auction Title**
 2. **Vehicle Description**
@@ -60,7 +60,7 @@ pip install crawlbase beautifulsoup4
 
 2. **Update the Scraper with Your Token**
 
-   - Replace `"YOUR_CRAWLBASE_TOKEN"` in the script with your Crawlbase JS Token.
+   - Replace `"CRAWLBASE_JS_TOKEN"` in the script with your Crawlbase JS Token.
 
 3. **Run the Scraper**
 
